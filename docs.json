@@ -42,8 +42,7 @@
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
-              "ai-tools/windsurf",
-              "ai-tools/groq"
+              "ai-tools/windsurf"
             ]
           }
         ]
